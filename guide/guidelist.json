@@ -1,11 +1,52 @@
 ﻿{
-	"list_size" : "1",
+	"list_size" : "5",
 	"guides_list" : [
 		{
 			"page": "13",
 			"path" : "Sheep - Kamiya Satoshi",
-			"name_en" : "Sheep - Kamiya Satoshi",
-			"name_zh" : "绵羊 - 神谷哲史"
+			"name_en" : "Sheep",
+			"name_zh" : "绵羊",
+			"added_time" : "2017-6-5",
+			"level" : "hard",
+			"author" : "Kamiya Satoshi"
+		},
+		{
+			"page": "15",
+			"path" : "Wyvern - Nham Van Son",
+			"name_en" : "Wyvern",
+			"name_zh" : "双头龙",
+			"added_time" : "2017-6-10",
+			"level" : "hard",
+			"author" : "Nham Van Son"
+		},
+		{
+			"page": "10",
+			"path" : "Rose - Phu Tran",
+			"name_en" : "Rose",
+			"name_zh" : "芙荃玫瑰",
+			"added_time" : "2017-6-10",
+			"level" : "medium",
+			"author" : "Phu Tran"
+		},
+		{
+			"page": "3",
+			"path" : "Tank - Jang Yong Ik",
+			"name_en" : "Tank",
+			"name_zh" : "坦克",
+			"added_time" : "2017-6-10",
+			"level" : "medium",
+			"author" : "Jang Yong Ik"
+		},
+		{
+			"page": "3",
+			"path" : "Swan - Hoang Tien Quyet",
+			"name_en" : "Swan",
+			"name_zh" : "展翅天鹅",
+			"added_time" : "2017-6-10",
+			"level" : "primary",
+			"author" : "Hoang Tien Quyet"
 		}
+		
+		
 	]
 }
