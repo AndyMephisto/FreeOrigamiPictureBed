@@ -1,0 +1,30 @@
+{
+	"list_size":"5",
+	"random_text_list":[
+		{
+			"id":"0",
+			"content_zh":"\t天气不错,不如来折纸?",
+			"content_en":"Good day, come and make some origami?"
+		},
+		{
+			"id":"1",
+			"content_zh":"\t你听说过神谷哲史吗?",
+			"content_en":"\t Have you ever heard Kamiya Satoshi?"
+		},
+		{
+			"id":"2",
+			"content_zh":"\t人生苦短,我选折纸.",
+			"content_en":"life is but a span,I choose origami."
+		},
+		{
+			"id":"3",
+			"content_zh":"\t只有亲自尝试过,才知道自己真的不行.",
+			"content_en":"Only if you have tried, you would know that you can't reach the point."
+		},
+		{
+			"id":"4",
+			"content_zh":"\t有什么建议或者意见,请联系 mephistogao@hotmail.com ",
+			"content_en":"Please mail me if you don't have boyfriend~ mephistogao@hotmail.com"
+		}
+	]
+}
