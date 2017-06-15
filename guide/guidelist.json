@@ -1,5 +1,5 @@
 ﻿{
-    "list_size": "25",
+    "list_size": "59",
     "guides_list": [
         {
             "id": "0",
@@ -247,6 +247,346 @@
             "name_zh": "独角兽",
             "added_time": "2017-6-11",
             "level": "hard"
+        },
+        {
+            "id": "25",
+            "page": "4",
+            "path": "Airedale Dog - Victoria Serova",
+            "name_en": "Airedale Dog",
+            "name_zh": "全能梗",
+            "added_time": "2017-6-15",
+            "level": "medium",
+            "author": "Hoang Trung Thanh"
+        },
+        {
+            "id": "26",
+            "page": "24",
+            "path": "Ancient Dragon - Kamiya Satoshi",
+            "name_en": "Ancient Dragon",
+            "name_zh": "古代龙",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Kamiya Satoshi"
+        },
+        {
+            "id": "27",
+            "page": "13",
+            "path": "Bee - Robert J.Lang",
+            "name_en": "Bee",
+            "name_zh": "蜜蜂",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Robert J.Lang"
+        },
+        {
+            "id": "28",
+            "page": "6",
+            "path": "Black Panther - Kunsulu Jilkishiyeva",
+            "name_en": "Black Panther",
+            "name_zh": "黑豹",
+            "added_time": "2017-6-15",
+            "level": "primary",
+            "author": "Kunsulu Jilkishiyeva"
+        },
+        {
+            "id": "29",
+            "page": "8",
+            "path": "Butterfly - Nguyen Hung Cuong",
+            "name_en": "Butterfly",
+            "name_zh": "蝴蝶",
+            "added_time": "2017-6-15",
+            "level": "medium",
+            "author": "Nguyen Hung Cuong"
+        },
+        {
+            "id": "30",
+            "page": "16",
+            "path": "Cerberus - Kamiya Satoshi",
+            "name_en": "Cerberus",
+            "name_zh": "地狱三头犬",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Kamiya Satoshi"
+        },
+        {
+            "id": "31",
+            "page": "4",
+            "path": "Cobra - Pham Dieu Huy",
+            "name_en": "Simple Cobra",
+            "name_zh": "简单眼镜蛇",
+            "added_time": "2017-6-15",
+            "level": "primary",
+            "author": "Cobra - Pham Dieu Huy"
+        },
+        {
+            "id": "32",
+            "page": "12",
+            "path": "Crane - Kamiya Satoshi",
+            "name_en": "Crane",
+            "name_zh": "仙鹤",
+            "added_time": "2017-6-15",
+            "level": "medium",
+            "author": "Kamiya Satoshi"
+        },
+        {
+            "id": "33",
+            "page": "18",
+            "path": "Crested Kingfisher - Morisue Kei",
+            "name_en": "Crested Kingfisher",
+            "name_zh": "翠鸟",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Morisue Kei"
+        },
+        {
+            "id": "34",
+            "page": "9",
+            "path": "Crocodile - Michael G.Lafosse",
+            "name_en": "Crocodile",
+            "name_zh": "美国鳄鱼",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Michael G.Lafosse"
+        },
+        {
+            "id": "35",
+            "page": "4",
+            "path": "Deer - Kunihiko Kasahara",
+            "name_en": "Cute Deer",
+            "name_zh": "可爱的小鹿",
+            "added_time": "2017-6-15",
+            "level": "primary",
+            "author": "Kunihiko Kasahara"
+        },
+        {
+            "id": "36",
+            "page": "7",
+            "path": "Deer - XuanYuanHaoRan",
+            "name_en": "Deer",
+            "name_zh": "中国鹿",
+            "added_time": "2017-6-15",
+            "level": "medium",
+            "author": "XuanYuanHaoRan"
+        },
+        {
+            "id": "37",
+            "page": "9",
+            "path": "Dragon - Fernando Gilgado",
+            "name_en": "Dragon",
+            "name_zh": "飞龙",
+            "added_time": "2017-6-15",
+            "level": "medium",
+            "author": "Fernando Gilgado"
+        },
+        {
+            "id": "38",
+            "page": "16",
+            "path": "Dragonfly - Kamiya Satoshi",
+            "name_en": "Dragonfly",
+            "name_zh": "蜻蜓",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Kamiya Satoshi"
+        },
+        {
+            "id": "39",
+            "page": "3",
+            "path": "Eskimo dog - Victoria Serova",
+            "name_en": "Eskimo Dog",
+            "name_zh": "爱斯基摩犬",
+            "added_time": "2017-6-15",
+            "level": "primary",
+            "author": "Victoria Serova"
+        },
+        {
+            "id": "40",
+            "page": "13",
+            "path": "Hercules Beetle - Kamiya Satoshi",
+            "name_en": "Hercules Beetle",
+            "name_zh": "独角仙",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Kamiya Satoshi"
+        },
+        {
+            "id": "41",
+            "page": "4",
+            "path": "Heron - Sebastien Limet",
+            "name_en": "Heron",
+            "name_zh": "丹顶鹤",
+            "added_time": "2017-6-15",
+            "level": "primary",
+            "author": "Sebastien Limet"
+        },
+        {
+            "id": "42",
+            "page": "10",
+            "path": "Horse - Komatsu Hideo",
+            "name_en": "Horse",
+            "name_zh": "Horse - Komatsu Hideo",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Komatsu Hideo"
+        },
+        {
+            "id": "43",
+            "page": "13",
+            "path": "Lion - Kamiya Satoshi",
+            "name_en": "Lion",
+            "name_zh": "狮子",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Kamiya Satoshi"
+        },
+        {
+            "id": "44",
+            "page": "11",
+            "path": "Mammuthus Primigenius - Kamiya Satoshi",
+            "name_en": "Mammuthus Primigenius",
+            "name_zh": "猛犸",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Kamiya Satoshi"
+        },
+        {
+            "id": "45",
+            "page": "8",
+            "path": "Mantis Boxer - Manuel Sirgo",
+            "name_en": "Mantis Boxer",
+            "name_zh": "出拳的螳螂",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Manuel Sirgo"
+        },
+        {
+            "id": "46",
+            "page": "7",
+            "path": "Markhor - Victoria Serova",
+            "name_en": "Markhor",
+            "name_zh": "山羊",
+            "added_time": "2017-6-15",
+            "level": "medium",
+            "author": "Victoria Serova"
+        },
+        {
+            "id": "47",
+            "page": "16",
+            "path": "Minotaur - Kamiya Satoshi",
+            "name_en": "Minotaur",
+            "name_zh": "牛头人",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Kamiya Satoshi"
+        },
+        {
+            "id": "48",
+            "page": "8",
+            "path": "Peacock - Maekawa Jun",
+            "name_en": "Peacock",
+            "name_zh": "孔雀",
+            "added_time": "2017-6-15",
+            "level": "primary",
+            "author": "Maekawa Jun"
+        },
+        {
+            "id": "49",
+            "page": "12",
+            "path": "Pegasus - Dong Viet Thien",
+            "name_en": "Pegasus",
+            "name_zh": "天马",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Dong Viet Thien"
+        },
+        {
+            "id": "50",
+            "page": "9",
+            "path": "Pegasus - Kamiya Satoshi",
+            "name_en": "Pegasus",
+            "name_zh": "天马",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Kamiya Satoshi"
+        },
+        {
+            "id": "51",
+            "page": "9",
+            "path": "Pegasus - Victoria Serova",
+            "name_en": "Pegasus",
+            "name_zh": "天马",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Victoria Serova"
+        },
+        {
+            "id": "52",
+            "page": "107",
+            "path": "Pope - Victoria Serova",
+            "name_en": "Pope",
+            "name_zh": "教皇",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Victoria Serova"
+        },
+        {
+            "id": "53",
+            "page": "2",
+            "path": "Rabbit - Maekawa Jun",
+            "name_en": "Rabbit",
+            "name_zh": "兔子",
+            "added_time": "2017-6-15",
+            "level": "primary",
+            "author": "Maekawa Jun"
+        },
+        {
+            "id": "54",
+            "page": "3",
+            "path": "Rose - Leong Cheng Chit",
+            "name_en": "Rose",
+            "name_zh": "六角玫瑰",
+            "added_time": "2017-6-15",
+            "level": "primary",
+            "author": "Leong Cheng Chit"
+        },
+        {
+            "id": "55",
+            "page": "8",
+            "path": "Serpent Eater - Roman Diaz",
+            "name_en": "Serpent Eater",
+            "name_zh": "鹭鹰",
+            "added_time": "2017-6-15",
+            "level": "medium",
+            "author": "Roman Diaz"
+        },
+        {
+            "id": "56",
+            "page": "1",
+            "path": "Snail - Eric Joisel",
+            "name_en": "Snail",
+            "name_zh": "蜗牛",
+            "added_time": "2017-6-15",
+            "level": "medium",
+            "author": "Eric Joisel"
+        },
+        {
+            "id": "57",
+            "page": "11",
+            "path": "Tyrannosaurus - Kamiya Satoshi",
+            "name_en": "Tyrannosaurus",
+            "name_zh": "霸王龙",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Kamiya Satoshi"
+        },
+        {
+            "id": "58",
+            "page": "6",
+            "path": "Wolf Spider - Brian Chan",
+            "name_en": "Wolf Spider",
+            "name_zh": "狼蛛",
+            "added_time": "2017-6-15",
+            "level": "hard",
+            "author": "Brian Chan"
         }
     ]
 }
